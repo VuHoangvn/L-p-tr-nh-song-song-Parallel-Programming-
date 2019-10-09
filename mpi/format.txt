@@ -1,0 +1,5 @@
+1. Input -> tai 1 process (rank  0)
+2. Chia mien tinh toan
+3. Chia Input, gui cho tung process
+4. Tinh toan + trao doi du lieu
+5. Tap hop output.
